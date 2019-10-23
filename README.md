@@ -1,2 +1,2 @@
-# dummy-actions
+# dummy actions
 Dummy PR for actions
